@@ -1,0 +1,34 @@
+#app {
+    width: 100%;
+    background-color: antiquewhite;
+    height: 800px;
+}
+
+.container {
+    text-align: center;
+}
+
+#MYcarousel {
+    background-color: aqua;
+}
+
+#MYcarousel img {
+    height: 300px;
+    margin-top: 35px;
+}
+
+.carousel-inner p {
+    text-decoration-color: blueviolet;
+    font-size: 20px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+#MYcarouse2 {
+    background-color: aquamarine;
+}
+
+#MYcarouse2 {
+    height: 300px;
+    margin-top: 35px;
+}
